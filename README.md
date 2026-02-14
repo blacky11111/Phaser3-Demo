@@ -7,7 +7,7 @@ To run the demo :
 3. Go to folder phaser-game;
 4. From that folder, run in terminal :
    
-   node server.js
+         node server.js
    
 6. From browser, goto http://localhost:3000/
 7. Enjoy the game
