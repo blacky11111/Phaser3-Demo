@@ -1,5 +1,5 @@
 # Phaser3-Demo
-This demo is based on official Phase3 tutorial located on https://phaser.io/tutorials/making-your-first-phaser-3-game, with some modifications use NODEJS.
+This demo is based on official Phaser3 tutorial located on https://phaser.io/tutorials/making-your-first-phaser-3-game, with some modifications use NODEJS.
 
 To run the demo :
 1. Assure you have nodejs in your system;
